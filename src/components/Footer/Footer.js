@@ -48,7 +48,7 @@ const Footer = () => {
                 <li>
                   <Link href="/categories/">
                     <a className={styles.footerMenuTitle}>
-                      <strong>Categories</strong>
+                      <strong>Themen</strong>
                     </a>
                   </Link>
                   <ul className={styles.footerMenuItems}>
